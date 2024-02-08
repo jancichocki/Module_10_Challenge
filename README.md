@@ -1,5 +1,21 @@
 # Cryptocurrency Clustering Analysis
 
+## Notebooks
+
+### 1. Main Analysis Notebook
+
+- **File Name**: `Main.ipynb`
+- **URL**: [Main.ipynb](https://github.com/jancichocki/Module_10_Challenge/blob/main/Main.ipynb)
+
+**Description**: This notebook encompasses the complete set of analyses and tasks outlined for the Module 10 Challenge. It adheres to the specified calendar requirements, integrating comprehensive data exploration, preprocessing, and modeling techniques aimed at understanding cryptocurrency market dynamics.
+
+### 2. Question and Answer Format Notebook
+
+- **File Name**: `crypto_investments.ipynb`
+- **URL**: [crypto_investments.ipynb](https://github.com/jancichocki/Module_10_Challenge/blob/main/crypto_investments.ipynb)
+
+**Description**: This notebook adopts a question-and-answer format, aligning with the Juniper Lab's interactive approach to presenting cryptocurrency investment insights. It facilitates a detailed inquiry into specific facets of the cryptocurrency market, enabling a structured and engaging exploration.
+
 ## Overview
 This project aims to cluster cryptocurrencies based on their market performance using both original and PCA-transformed data. The goal is to find the optimal number of clusters (k) and visualize the clustering to understand the underlying patterns in cryptocurrency market behavior.
 
